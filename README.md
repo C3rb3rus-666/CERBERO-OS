@@ -9,6 +9,8 @@ Cerbero-OS es una distribución de Linux basada en Arch Linux, diseñada para of
 
 El kernel personalizado de Cerbero-OS está optimizado para minimizar los tiempos de carga, lo que significa que el sistema operativo arranca rápidamente y responde de manera ágil a las solicitudes , la selección de controladores eficientes y la eliminación de componentes innecesarios, lo que resulta en un sistema altamente eficiente y de arranque rápido.
 
+![c3.jpg](https://github.com/C3rb3rus-666/CERBERO-OS/blob/main/Captura3.JPG)
+
 En cuanto al entorno preparado para la programación, Cerbero-OS proporciona una amplia gama de herramientas y utilidades orientadas al desarrollo de software. Esto incluye compiladores, bibliotecas, depuradores y entornos de desarrollo integrados (IDE), que facilitan la creación y depuración de programas en diferentes lenguajes de programación.
 
 En términos generales, Cerbero-OS es una distribución Linux altamente personalizada y optimizada, que combina la velocidad de carga, un entorno de programación completo y herramientas de seguridad avanzadas. Es una opción ideal para aquellos que buscan un sistema operativo potente y flexible, centrado en la programación, el pentesting y el hardening.
